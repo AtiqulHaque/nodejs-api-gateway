@@ -19,7 +19,8 @@ Routing,
 Ratelimiter,
 Log Monitor
 `
-so this the begining i will update update this porject very soon
+
+**So this the begining of this porject, i will update this project very soon.**
 
 ## Install process as usual same 
 
