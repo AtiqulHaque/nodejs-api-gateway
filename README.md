@@ -17,7 +17,7 @@ In microservice architecture vaslty use this pattern. I try to create this gatew
 
 >npm install
 
->npm run
+>npm start
 
 What things i actually cover here 
 we know that in  microservice architecture API Gateway is the main Starting point of any project
